@@ -1,8 +1,9 @@
 [tool.poetry]
 name = "builder"
 version = "0.1.0"
-description = ""
+description = "Woodwork assistant app"
 authors = ["Yair Ashlagi <yashlagi91@gmail.com>"]
+package-mode = false
 readme = "README.md"
 
 [tool.poetry.dependencies]
