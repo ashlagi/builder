@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "builder"
+version = "0.1.0"
+description = ""
+authors = ["Yair Ashlagi <yashlagi91@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+streamlit = "^1.44.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
